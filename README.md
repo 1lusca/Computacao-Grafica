@@ -15,16 +15,12 @@ Respositório para a entrega dos exercícios da cadeira de Computação Gráfica
 
 #### Trabalhos Entregues
 
-- [TGA](https://github.com/1lusca/Processamento-Grafico/tree/main/tga)
-- [TGB](https://github.com/1lusca/Processamento-Grafico/tree/main/tgb)
 
 ##
 
 #### Exercícios Entregues
 
-- [Lista 1](https://github.com/1lusca/Processamento-Grafico/tree/main/lista-1)
-- [Lista 2](https://github.com/1lusca/Processamento-Grafico/tree/main/lista-2)
-- [Lista 3](https://github.com/1lusca/Processamento-Grafico/tree/main/lista-3)
+- [Exercício inicial](https://github.com/1lusca/Computacao-Grafica/tree/main/Hello3D)
 
 
 
