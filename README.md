@@ -1,6 +1,6 @@
-# Computacao-Grafica
+# Computação Gráfica
 
-Respositório para a entrega dos exercícios da cadeira de Computação Gráfica 2024/2.
+Repositório para entrega dos exercícios da cadeira de Computação Gráfica 2024/2.
 
 #### Nome: Lucas Schneider
 
