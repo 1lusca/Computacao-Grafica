@@ -1,26 +1,31 @@
 # Computação Gráfica
 
-Repositório para entrega dos exercícios da cadeira de Computação Gráfica 2024/2.
+Trabalho do GA - Leitor de cenas 3D
 
-#### Nome: Lucas Schneider
+### Execução
 
-##
+Instruções de quais teclas do teclado pressionar para realizar movimentar a câmera, rotation, translation e scale.
 
-#### Ambiente de Desenvolvimento
-- macOS Sonoma v14.5
-- GLFW v3.3.8
-- OpenGL v4.1
+##### Camera
+    w = cima
+    a = esquerda
+    s = baixo
+    d = direito
 
-##
+##### Rotation
+    z = eixo Z
+    x = eixo X
+    c = eixo Y
 
-#### Trabalhos Entregues
+##### Translation
+    i = eixo X positivo  |  j = eixo X negativo
+    o = eixo Y positivo  |  k = eixo Y negativo
+    p = eixo Z positivo  |  l = eixo Z negativo
 
-
-##
-
-#### Exercícios Entregues
-
-- [Exercício inicial](https://github.com/1lusca/Computacao-Grafica/tree/main/Hello3D)
+##### Scale
+    t = eixo X positivo  |  f = eixo X negativo
+    y = eixo Y positivo  |  g = eixo Y negativo
+    u = eixo Z positivo  |  h = eixo Z negativo
 
 
 
