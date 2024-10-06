@@ -23,7 +23,6 @@ using namespace std;
 //Classe gerenciadora de shaders
 #include "Shader.h"
 
-
 // Protótipo da função de callback de teclado
 void key_callback(GLFWwindow* window, int key, int scancode, int action, int mode);
 
@@ -32,7 +31,7 @@ int setupGeometry();
 int loadSimpleOBJ(string filePATH, int &nVertices);
 
 // Dimensões da janela (pode ser alterado em tempo de execução)
-const GLuint WIDTH = 1000, HEIGHT = 1000;
+const GLuint WIDTH = 2560, HEIGHT = 1600;
 
 // rotacao
 bool rotateX=false, rotateY=false, rotateZ=false;
@@ -82,7 +81,7 @@ int main()
 	#endif
 
 	// Criação da janela GLFW
-	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Ola 3D -- Lucas!", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Trabalho GA", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	// Fazendo o registro da função de callback para a janela GLFW
@@ -215,7 +214,7 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
 	// z = eixo Z
 	// x = eixo X
 	// c = eixo Y
-	if (key == GLFW_KEY_Z && action == GLFW_PRESS) {
+	if (key == GLFW_KEY_X && action == GLFW_PRESS) {
 		rotateX = true;
 		rotateY = false;
 		rotateZ = false;
@@ -429,8 +428,7 @@ int setupGeometry() {
 	return VAO;
 }
 
-int loadSimpleOBJ(string filePath, int &nVertices)
-{
+int loadSimpleOBJ(string filePath, int &nVertices) {
 	vector <glm::vec3> vertices;
 	vector <glm::vec2> texCoords;
 	vector <glm::vec3> normals;
