@@ -7,7 +7,7 @@ Repositório para entrega dos exercícios da cadeira de Computação Gráfica 20
 ##
 
 #### Ambiente de Desenvolvimento
-- macOS Sonoma v14.5
+- macOS Sequoia 15.1
 - GLFW v3.3.8
 - OpenGL v4.1
 
@@ -15,6 +15,7 @@ Repositório para entrega dos exercícios da cadeira de Computação Gráfica 20
 
 #### Trabalhos Entregues
 
+- [Trabalho GA](https://github.com/1lusca/Computacao-Grafica/tree/main/trabalho-ga)
 
 ##
 
