@@ -1,0 +1,49 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: clang++ arquivo de build ativo",
+            "command": "/usr/bin/clang++",
+            "args": [
+                "-std=c++17",
+                "-fcolor-diagnostics",
+                "-Wall",
+                "-fansi-escape-codes",
+                "-g",
+                "-I${workspaceFolder}/dependencies/include",
+                "-L${workspaceFolder}/dependencies/library",
+                "${workspaceFolder}/dependencies/library/libglfw.3.3.dylib",
+                "${workspaceFolder}/*.cpp",
+                "${workspaceFolder}/glad.c",
+                "${workspaceFolder}/Shader.cpp",
+                "-o",
+                "${workspaceFolder}/app",
+                "-framework",
+                "OpenGL",
+                "-framework",
+                "Cocoa",
+                "-framework",
+                "IOKit",
+                "-framework",
+                "CoreVideo",
+                "-framework",
+                "CoreFoundation",
+                "-Wno-deprecated"
+
+
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Tarefa gerada pelo Depurador."
+        }
+    ],
+    "version": "2.0.0"
+}
