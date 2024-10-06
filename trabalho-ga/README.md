@@ -2,6 +2,10 @@
 
 Trabalho do GA - Leitor de cenas 3D
 
+### Aprensentação
+
+- [Apresentação](https://drive.google.com/file/d/1kh15z_ni_yy4vhExW2AaT2626GkNc4O2/view?usp=sharing)
+
 ### Execução
 
 Instruções de quais teclas do teclado pressionar para realizar movimentar a câmera, rotation, translation e scale.
