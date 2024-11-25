@@ -1,0 +1,6 @@
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/edit_cache.dir
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/rebuild_cache.dir
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/list_install_components.dir
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/install.dir
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/install/local.dir
+/Users/1lusca/Documents/GitHub/Computacao-Grafica/trabalho-ga/build/CMakeFiles/install/strip.dir
