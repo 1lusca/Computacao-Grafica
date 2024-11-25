@@ -17,6 +17,8 @@ Repositório para entrega dos exercícios da cadeira de Computação Gráfica 20
 
 - [Trabalho GA - Código](https://github.com/1lusca/Computacao-Grafica/tree/main/trabalho-ga)
 - [Trabalho GA - Apresentação](https://drive.google.com/file/d/1kh15z_ni_yy4vhExW2AaT2626GkNc4O2/view?usp=sharing)
+- [Trabalho GB - Código](https://github.com/1lusca/Computacao-Grafica/tree/main/trabalho-gb)
+- [Trabalho GB - Apresentação](https://drive.google.com/file/d/1Px9DbGdx9d_pKtDA8jScbogAoHP_ITTx/view?usp=drive_link)
 
 ##
 
