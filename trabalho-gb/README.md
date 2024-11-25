@@ -4,7 +4,7 @@ Trabalho do GB - Leitor de cenas 3D
 
 ### Aprensentação
 
-- [Apresentação](https://drive.google.com/file/d/1kh15z_ni_yy4vhExW2AaT2626GkNc4O2/view?usp=sharing)
+- [Apresentação](https://drive.google.com/file/d/1Px9DbGdx9d_pKtDA8jScbogAoHP_ITTx/view?usp=sharing)
 
 ### Execução
 
